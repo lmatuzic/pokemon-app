@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios'
-import { Col, Card, Button } from 'react-bootstrap'
+import { Col, Card } from 'react-bootstrap'
 import { FiSearch } from 'react-icons/fi';
 
 const Anime = () => {
